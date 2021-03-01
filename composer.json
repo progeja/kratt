@@ -1,0 +1,29 @@
+{
+    "name": "progeja/kratt",
+    "description": "PHP CLI app simple framework.",
+    "type": "library",
+    "keywords": [
+        "php7",
+        "php8",
+        "command",
+        "cli",
+        "console",
+        "cli-app",
+        "php-cli"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Progeja",
+            "email": "progeja@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Progeja\\"
+        }
+    }
+}
