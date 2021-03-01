@@ -1,2 +1,4 @@
-# kratt
-PHP CLI app simple framework.
+# ClApp
+Simple PHP console app boilerplate.
+
+Easy to start writing php-based cli-apps.
